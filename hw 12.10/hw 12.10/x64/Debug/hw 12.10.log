@@ -1,0 +1,11 @@
+﻿  hw 12.10.cpp
+C:\Users\User\Desktop\hw 12.10\hw 12.10\hw 12.10.cpp(9,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\hw 12.10\hw 12.10\hw 12.10.cpp(80,27): warning C4042: n1: имеет недопустимый класс хранения
+C:\Users\User\Desktop\hw 12.10\hw 12.10\hw 12.10.cpp(80,42): warning C4042: n2: имеет недопустимый класс хранения
+C:\Users\User\Desktop\hw 12.10\hw 12.10\hw 12.10.cpp(107,27): warning C4042: num: имеет недопустимый класс хранения
+C:\Users\User\Desktop\hw 12.10\hw 12.10\hw 12.10.cpp(133,21): warning C4042: num: имеет недопустимый класс хранения
+C:\Users\User\Desktop\hw 12.10\hw 12.10\hw 12.10.cpp(138,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\hw 12.10\hw 12.10\hw 12.10.cpp(154,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\hw 12.10\hw 12.10\hw 12.10.cpp(172,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\hw 12.10\hw 12.10\hw 12.10.cpp(25): warning C4715: reverse: значение возвращается не при всех путях выполнения
+  hw 12.10.vcxproj -> C:\Users\User\Desktop\hw 12.10\x64\Debug\hw 12.10.exe
